@@ -1,4 +1,4 @@
-# EightBit
+# EightBit Kernel
 A kernel project written in Assembly and C
 
 ## 🙂 Info
